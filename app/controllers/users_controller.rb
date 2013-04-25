@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 class UsersController < ApplicationController
 
   def show
@@ -22,10 +23,13 @@ class UsersController < ApplicationController
   end
 end
 =======
+=======
+>>>>>>> filling-in-layout
 class UsersController < ApplicationController
   def new
   end
 end
+<<<<<<< HEAD
 >>>>>>> origin/modeling-users
 =======
 class UsersController < ApplicationController
@@ -50,3 +54,5 @@ class UsersController < ApplicationController
   end
 end
 >>>>>>> sign-up
+=======
+>>>>>>> filling-in-layout

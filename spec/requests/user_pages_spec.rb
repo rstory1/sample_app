@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 require 'spec_helper'
 
 describe "User pages" do
@@ -53,6 +54,8 @@ end
 =======
 =======
 >>>>>>> sign-up
+=======
+>>>>>>> filling-in-layout
 require 'spec_helper'
 
 describe "User pages" do
@@ -65,6 +68,7 @@ describe "User pages" do
     it { should have_selector('h1',    text: 'Sign up') }
     it { should have_selector('title', text: full_title('Sign up')) }
   end
+<<<<<<< HEAD
 <<<<<<< HEAD
 end
 >>>>>>> origin/modeling-users
@@ -108,3 +112,6 @@ end
 end
 
 >>>>>>> sign-up
+=======
+end
+>>>>>>> filling-in-layout

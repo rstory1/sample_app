@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 SampleApp::Application.routes.draw do
   resources :users
   
@@ -79,6 +80,11 @@ SampleApp::Application.routes.draw do
   resources :users
   
 >>>>>>> sign-up
+=======
+SampleApp::Application.routes.draw do
+  get "users/new"
+
+>>>>>>> filling-in-layout
   root to: 'static_pages#home'
 	
   match '/help', to: 'static_pages#help'
@@ -147,6 +153,9 @@ SampleApp::Application.routes.draw do
   # match ':controller(/:action(/:id))(.:format)'
 end
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> origin/modeling-users
 =======
 >>>>>>> sign-up
+=======
+>>>>>>> filling-in-layout

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 module UsersHelper
   # Returns the Gravatar (http://gravatar.com/) for the given user.
   def gravatar_for(user)
@@ -22,3 +23,7 @@ module UsersHelper
   end
 end
 >>>>>>> sign-up
+=======
+module UsersHelper
+end
+>>>>>>> filling-in-layout

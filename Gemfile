@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
@@ -37,15 +38,21 @@ end
 =======
 =======
 >>>>>>> sign-up
+=======
+>>>>>>> filling-in-layout
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
 gem 'bootstrap-sass', '2.1'
+<<<<<<< HEAD
 gem 'bcrypt-ruby', '3.0.1'
+=======
+>>>>>>> filling-in-layout
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.11.0'
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   gem 'factory_girl_rails', '4.1.0'
@@ -54,6 +61,8 @@ end
 
 group :development do
   gem 'annotate', '2.5.0'
+=======
+>>>>>>> filling-in-layout
 end
 
 # Gems used only for assets and not required
@@ -72,6 +81,7 @@ end
 
 group :production do
   gem 'pg', '0.12.2'
+<<<<<<< HEAD
 <<<<<<< HEAD
 end
 >>>>>>> origin/modeling-users
@@ -79,3 +89,6 @@ end
 end
 
 >>>>>>> sign-up
+=======
+end
+>>>>>>> filling-in-layout
