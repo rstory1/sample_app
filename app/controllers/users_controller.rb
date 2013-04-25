@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class UsersController < ApplicationController
 
   def show
@@ -19,3 +20,9 @@ class UsersController < ApplicationController
     end
   end
 end
+=======
+class UsersController < ApplicationController
+  def new
+  end
+end
+>>>>>>> origin/modeling-users
