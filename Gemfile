@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
@@ -34,6 +35,8 @@ group :production do
 end
 
 =======
+=======
+>>>>>>> sign-up
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
@@ -43,6 +46,10 @@ gem 'bcrypt-ruby', '3.0.1'
 group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.11.0'
+<<<<<<< HEAD
+=======
+  gem 'factory_girl_rails', '4.1.0'
+>>>>>>> sign-up
 end
 
 group :development do
@@ -65,5 +72,10 @@ end
 
 group :production do
   gem 'pg', '0.12.2'
+<<<<<<< HEAD
 end
 >>>>>>> origin/modeling-users
+=======
+end
+
+>>>>>>> sign-up
